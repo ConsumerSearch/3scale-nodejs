@@ -1,7 +1,8 @@
 # 3scale.js
 
-Basic Node JS module to communicate with 3Scale. This module has minimum implementation
-as needed by CONSUMERSEARCH
+Basic Node JS module to communicate with 3Scale. This module has minimum implementation for now:
+
+* Logging
 
 
 # usage
@@ -26,3 +27,6 @@ on the client object that correspond with the API.
     }
     client.report(transactions, callback);
 ```
+
+# 3Scale API doc
+For full possibilities, see the 3scale API docs (http://www.3scale.net/support/api-service-management-v2-0/) or their own libraries (http://github.com/3scale)
