@@ -1,0 +1,12 @@
+{
+  "name": "3scale",
+  "description": "3scale module",
+  "keywords": ["3scale", "api"],
+  "version": "0.0.1",
+  "author": "Tom Deryckere <tom.deryckere@gmail.com>",
+  "main": "lib/threescale",
+  "engines": {"node": ">= 0.4.12"}
+  "dependencies": {
+    "qs": ">= 0.0.0"
+  },
+}
